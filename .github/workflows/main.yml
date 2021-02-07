@@ -18,3 +18,4 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: Asia/Seoul
           config_padding: 6%, 10% 
+          plugin_followup: yes
