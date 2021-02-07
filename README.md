@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Metrics](https://github.com/gyumin-kim/gyumin-kim/blob/main/github-metrics.svg)
 
 <!--
