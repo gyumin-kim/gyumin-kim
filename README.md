@@ -1,3 +1,9 @@
+[![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyumin-kim&count_private=true&show_icons=true&theme=vue-dark&custom_title=My%20GitHub%20Stats%20🧑🏻‍💻)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gyumin_kim)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ![Metrics](https://github.com/gyumin-kim/gyumin-kim/blob/main/github-metrics.svg)
 
 <!--
