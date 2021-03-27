@@ -1212,14 +1212,14 @@
                   
                     <div class="entry">
                       <span class="name">springbook</span>
-                      <div class="bar" style="width: 75.872%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">95%</span>
+                      <div class="bar" style="width: 76.408%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">96%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">javaTest</span>
-                      <div class="bar" style="width: 4.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">5%</span>
+                      <div class="bar" style="width: 3.592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">4%</span>
                     </div>
                   
                 
