@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="465" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
     <defs>
         <style/>
     </defs>
@@ -1218,9 +1218,6 @@
     </h2>
                 <div class="row">
                     <ul class="habits">
-                        <li>Use spaces for indents</li>
-                        <li>Mostly push code around 01:00</li>
-                        <li>Mostly active on thursday</li>
                     </ul>
                 </div>
             </section>
